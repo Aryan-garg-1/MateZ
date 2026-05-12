@@ -60,17 +60,6 @@ MateZ is part of a **3-part ecosystem**:
 
 ---
 
-## 👥 Team & Contributions
-
-Built as a team project at the **Apple Developer Academy @ Federico II**.
-
-| Contributor | Role |
-|---|---|
-| **Aryan Garg** | Frontend/Backend integration, connectivity between MAcroClient and MacroServer |
-| **Giuseppe Rocco (iOmega8561)** | Core client-side development (MAcroClient) |
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] 1-on-1 private chat between matched players
